@@ -1,0 +1,21 @@
+## Interface: 11200
+## Title: Onyfans Loot
+## Notes: An addons that shows whose up next for loot
+## Author: Bombg
+## Version: 0.2.3
+## SavedVariables: OfLoot
+
+# main
+
+Libs\LibStub\LibStub.lua
+Libs\AceLibrary\AceLibrary.lua
+Libs\AceOO-2.0\AceOO-2.0.lua
+Libs\AceHook-2.1\AceHook-2.1.lua
+Libs\AceSerializer-3.0\AceSerializer-3.0.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceComm-3.0\AceComm-3.0.lua
+Libs\AceComm-3.0\ChatThrottleLib.lua
+OnyfansLoot-Utils.lua
+OnyfansLoot.lua
+OnyfansLoot-Sync.lua
+OnyfansLoot-LootMaster.lua
